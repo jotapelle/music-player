@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Night drive",
+        "uri": "https://cdn.pixabay.com/download/audio/2022/01/31/audio_0f2416122a.mp3",
+        "image": "https://images.freeimages.com/images/large-previews/d9e/night-drive-1512618.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Audio technology",
+        "uri": "https://cdn.pixabay.com/download/audio/2021/12/17/audio_93d90514a5.mp3",
+        "image": "https://images.freeimages.com/images/large-previews/ff2/texture-1192268.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The way of water",
+        "uri": "https://cdn.pixabay.com/download/audio/2021/11/01/audio_67c5757bac.mp3",
+        "image": "https://images.freeimages.com/images/large-previews/5cc/water-1376816.jpg"
+    }
+]
